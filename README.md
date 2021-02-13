@@ -14,4 +14,4 @@ Ecriture en italique
 _aa_
 
 ...
-Tuto https://agea.github.io/tutorial.md/
+Voir le tuto markdown:  https://agea.github.io/tutorial.md/
